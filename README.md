@@ -1,6 +1,6 @@
 # Quantum Neural Network for Binary Classification tested on various processors
 
-This project encompasses building a Quantum Neural Network for the binary classification of digits (it can also be expanded to other instances of pattern recognition or image processing ) and comapring the performance od the model on three Processing Units ; CPU, GPU and TPU.
+This project encompasses building a Quantum Neural Network for the binary classification of digits (it can also be expanded to other instances of pattern recognition or image processing ) and comparing the performance of the model on three Processing Units ; CPU, GPU and TPU.
 This project has been carried out under the guidance of Dr Amlan Chakrabarti, Professor and Director AKCSIT, Calcutta University.
 All the notebooks above have been run on Google Colaboratory owing to the ease in integratig TensorFlow Quantum with Cirq.
 
